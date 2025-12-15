@@ -60,5 +60,4 @@ Desain dibuat minimalis, modern, dan responsif sehingga nyaman digunakan di pera
 6. Program melakukan perhitungan
 7. Hasil ditampilkan ke layar
 
-### 📊 Flowchart Sederhana
 
